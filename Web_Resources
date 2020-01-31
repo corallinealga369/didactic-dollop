@@ -1,8 +1,43 @@
-Concepts that matter for the Web. Document your APIs by documenting their Web Concepts.
-http://webconcepts.info/
+##########################
+# About Web Technologies #
+##########################
+  Concepts that matter for the Web. Document your APIs by documenting their Web Concepts.
+    http://webconcepts.info/
 
-OWASP - Open Web Application Secutiry Project - Foundation
-https://www.owasp.org/
+  W3 Schools - The World's Largest Developer Site
+    https://www.w3schools.com/
+    
+############################
+# Web Application Security #
+############################
+  OWASP - Open Web Application Security Project
+    https://owasp.org/
+    
+    OWASP Top 10
+    https://owasp.org/www-project-top-ten/
+    
+  Common Weakness Ennumeration
+    SQL Injection - has bad code examples, and injection query examples
+    https://cwe.mitre.org/data/definitions/89.html
+  
+  Portswigger- Burp Testing Methodologies
+    https://support.portswigger.net/customer/portal/topics/792273-burp-testing-methodologies/articles
+  Portswigger - Using Burp to Test for Cross-Site Request Forgery (CSRF)
+    https://support.portswigger.net/customer/portal/articles/1965674-Methodology_Cross-Site%20Request%20Forgery%20(CSRF).html
 
-W3 Schools - The World's Largest Developer Site
-https://www.w3schools.com/
+  HackerOne Hacker101 - course about web application hacking  
+    "Hacker101 is a collection of videos, resources, and hands-on activities that will teach you everything you need 
+    to operate as a bug bounty hunter. The material is available to learn for free from HackerOne.
+    Led by HackerOne’s Cody Brocious, the Hacker101 material is ideal for beginners through to intermediate hackers
+    and located at https://hacker101.com/.Feel free to share and join the conversation on Twitter with hashtag #hacker101"
+    https://www.hackerone.com/hacker101  
+  
+  Security Idiots - Tutorials
+    http://www.securityidiots.com/Web-Pentest/SQL-Injection/bypass-login-using-sql-injection.html
+    
+  Cheat Sheets
+  Portswigger XSS Cheat Sheet
+  "This cross-site scripting (XSS) cheat sheet contains many vectors that can help you bypass WAFs and filters. 
+  You can select vectors by the event, tag or browser and a proof of concept is included for every vector. 
+  This cheat sheet is regularly updated in 2019. Last updated: Fri, 08 Nov 2019 10:58:07 +0000. "
+    https://portswigger.net/web-security/cross-site-scripting/cheat-sheet
